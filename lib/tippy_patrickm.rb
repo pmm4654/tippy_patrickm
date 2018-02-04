@@ -1,5 +1,5 @@
 require "tippy_patrickm/version"
+require "tippy_patrickm/builder"
 
 module TippyPatrickm
-  # Your code goes here...
 end
